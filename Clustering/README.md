@@ -16,15 +16,15 @@ Alur kerja (*workflow*) yang diimplementasikan meliputi:
 Algoritma utama yang digunakan untuk pengelompokan ini adalah **K-Means Clustering** dengan jumlah cluster $k=4$.
 
 **Hasil Evaluasi:**
-- **Silhouette Score:** [Masukkan angka Silhouette Score dari output Colab kamu disini]
+- **Silhouette Score:** 0.1665
 - **Visualisasi PCA:** Model berhasil memisahkan pelanggan ke dalam 4 segmen perilaku utama, yang secara visual dapat diamati melalui *scatter plot* distribusi komponen PCA.
 - **Cluster Profiling:** Berdasarkan rata-rata fitur per cluster, kita dapat mengidentifikasi perilaku spesifik tiap segmen (misalnya segmen pengguna pasif, segmen pembelanja aktif, segmen pengguna tarik tunai, dan pengguna VIP).
 
 ## 🧭 How to Navigate the Repository
-1. `notebook_uts_clustering.ipynb`: Merupakan file Jupyter Notebook utama yang memuat keseluruhan kode, narasi pemikiran, serta *output* visualisasi dari Elbow Method dan PCA.
-2. **Catatan**: Dataset `clusteringmidterm(1).csv` tidak disertakan di dalam repository ini.
+1. `Clustering.ipynb`: Merupakan file Jupyter Notebook utama yang memuat keseluruhan kode, narasi pemikiran, serta *output* visualisasi dari Elbow Method dan PCA.
+2. **Catatan**: Dataset `clusteringmidterm.csv` tidak disertakan di dalam repository ini.
 
 ## 👨‍💻 Identification
 - **Name:** Dhafi Dzakwan Pratama
 - **Class:** S1 Teknik Komputer
-- **NIM:** [Masukkan NIM Kamu Disini]
+- **NIM:** 101032300213

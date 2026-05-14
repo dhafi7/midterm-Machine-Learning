@@ -20,7 +20,7 @@ Model yang digunakan dalam proyek ini adalah **XGBRegressor**. Berdasarkan prose
 - **Interpretation**: Melalui LIME, terlihat bahwa fitur tertentu seperti `feature_1` dan `feature_3` memberikan kontribusi signifikan (baik positif maupun negatif) terhadap pergeseran angka tahun yang diprediksi oleh model.
 
 ## 🧭 How to Navigate the Repository
-1. `notebook_uts_regresi.ipynb`: Jupyter Notebook utama yang berisi seluruh kode mulai dari *loading* data, optimasi Optuna, hingga visualisasi LIME.
+1. `Regression_ML.ipynb`: Jupyter Notebook utama yang berisi seluruh kode mulai dari *loading* data, optimasi Optuna, hingga visualisasi LIME.
 2. `mlruns/`: Folder yang berisi *log* hasil eksperimen yang dicatat oleh MLFlow.
 3. **Catatan**: Dataset `midterm-regresi-dataset.csv` tidak disertakan dalam repository ini karena batasan ukuran file.
 

@@ -27,7 +27,7 @@ Algoritma yang digunakan adalah **Random Forest Classifier** (`n_estimators=100`
 
 ## 🧭 How to Navigate the Repository
 Untuk melihat dan menjalankan kode dalam repositori ini, silakan ikuti panduan berikut:
-1. `notebook_uts_ml.ipynb`: Merupakan file Jupyter Notebook utama. Anda dapat membukanya secara langsung di GitHub atau mengimpornya ke Google Colab. File ini memuat seluruh langkah kerja secara sistematis dengan penjelasan di setiap *cell*-nya.
+1. `Transaction_Fraud.ipynb`: Ini merupakan file Jupiter Notebook utama yang akan menjalankan tiap cell kode programnya.
 2. `submission_uts_ml.csv`: File ini berisi hasil akhir (*output*) dari prediksi probabilitas *fraud* terhadap dataset ujian `test_transaction.csv`. File memuat dua kolom: `TransactionID` dan `isFraud` (probabilitas).
 3. **Catatan:** Dataset `train_transaction.csv` dan `test_transaction.csv` tidak disertakan di dalam repository ini karena ukurannya yang besar (>600 MB).
 

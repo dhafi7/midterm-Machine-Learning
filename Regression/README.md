@@ -21,8 +21,7 @@ Model yang digunakan dalam proyek ini adalah **XGBRegressor**. Berdasarkan prose
 
 ## 🧭 How to Navigate the Repository
 1. `Regression_ML.ipynb`: Jupyter Notebook utama yang berisi seluruh kode mulai dari *loading* data, optimasi Optuna, hingga visualisasi LIME.
-2. `mlruns/`: Folder yang berisi *log* hasil eksperimen yang dicatat oleh MLFlow.
-3. **Catatan**: Dataset `midterm-regresi-dataset.csv` tidak disertakan dalam repository ini karena batasan ukuran file.
+2. **Catatan**: Dataset `midterm-regresi-dataset.csv` tidak disertakan dalam repository ini karena batasan ukuran file.
 
 ## 👨‍💻 Identification
 - **Name**: Dhafi Dzakwan Pratama
